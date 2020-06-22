@@ -1,0 +1,17 @@
+{
+  "name": "eventsApp",
+  "displayName": "eventsApp",
+  "expo": {
+    "name": "eventsApp",
+    "slug": "eventsApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
